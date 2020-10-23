@@ -1,4 +1,4 @@
-### Hi there 👋
+[![mramshaw's github stats](https://github-readme-stats.vercel.app/api?username=mramshaw&count_private=1)](https://github.com/mramshaw)
 
 <!--
 **mramshaw/mramshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
